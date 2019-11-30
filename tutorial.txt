@@ -1,1 +1,14 @@
 Gabriel Augusto Becker
+
+20/10/1988
+
+comandos mais utilizados no git:
+
+git status: estado atual da pasta novo arquivo criado
+
+git add - adicionando novos arquivos.
+
+git commit -m "arquivo-tutorial" salvando no repositorio remoto
+
+
+git push origin
