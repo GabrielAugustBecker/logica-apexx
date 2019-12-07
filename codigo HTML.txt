@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <title> Teste de Caso </title>
+</head>
+
+<body>
+
+    <script>
+
+
+
+        document.write('<p>Gabriel Augusto Becker</p>');
+        document.write('<p>Nenhum / flamengo</p>');
+        document.write('<p>Qualificação para trabalhar como dev</p>');
+        document.write('<p> Mensagem aleatória: “Seu trabalho vai preencher uma parte grande da sua vida, e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz”. Steve Jobs</p>');
+
+
+    </script>
+    <h2>
+        <p>
+            Cidades a visitar
+        </p>
+
+    </h2>
+
+    <ul>
+        <li>Quebec</li>
+        <li>New Orleans</li>
+        <li>New York</li>
+        <li>Detroit</li>
+        <li>New Hampshire</li>
+    </ul>
+
+</body>
+
+</html>
